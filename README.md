@@ -1,5 +1,20 @@
 # Instacart Grocery Basket Analysis Project
-Welcome to my project where I explore the fascinating world of data analysis using Python. In this project, we are analyzing Instacart's Grocery Basket who wants to uncover more information about their sales pattern. The instacart stakeholders are most interested in the variety of customers in their database along with theri purchasing behaviours. Of course, one size does not fit all when it comes to marketing strategies. Therefore, our primary focus is to dissect customer diversity and purchasing behaviors to devise targeted marketing campaigns.
+In this project, we are analyzing Instacart's Grocery Basket who wants to uncover more information about their sales pattern. The instacart stakeholders are most interested in the variety of customers in their database along with theri purchasing behaviours. Of course, one size does not fit all when it comes to marketing strategies. Therefore, our primary focus is to dissect customer diversity and purchasing behaviors to devise targeted marketing campaigns.
+
+# Tools and Techniques
+For this analysis, I utilize Python as my primary tool for analysis and for data visualization. Leveraging the power of Python, I employ various libraries including:
+* NumPy for numerical computations
+* Pandas for data manipulation and analysis
+* Seaborn and Matplotlib for data visualization
+
+Further, the following techniques are employed throughout the analysis:
+* Data Cleaning and summarizing
+* Data Wrangling
+* Data Merging
+* Deriving New Features
+* Population Flows
+* Creating Customer Profiles
+
 
 ## Key Questions
 
