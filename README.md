@@ -63,8 +63,12 @@ Labelling: 0 (Saturday), 1 (Sunday), 2 (Monday), 3 (Tuesday), 4 (Wednesday), 5 (
 * Saturday and Sunday have seen maximum number of total orders.
 * The orders start to increase when weekend is approaching and start to decline when weekdays begin.
 
+In the analysis, we also found the distribution of customers based on loyalty type and income brackets. Most of the ordes were placed by regular customers. Surprisingly, loyal customer placed less number of total orders than regular customers. This is due to higher number of regular customers.
+
 <p align="center">
 <img width="45%" alt="image" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/18646135-f080-4085-9f1f-014cc2ff80ce">
 &nbsp; &nbsp; &nbsp; &nbsp;
 <img width="45%" alt="image" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/0abd31e1-3c1e-49bb-a28b-94222b1c285f">
 </p>
+Most of the customers belong to Medium Income group or High Income group. The Low Income category had the least number of customers.
+For a more comprehensive report download the final report file.
