@@ -51,11 +51,6 @@ There are a number of questions that can be asked using this dataset. In this pr
 Following in an excerpt from the results of the analysis to give you an overview of the resutls. For complete results please read read the Report. [Link to the final Report](https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/commit/f10d4b9d9eb6ec4d7dd1d17135068f5238ecc2b8)
 
 One of the questions were to find the busiest days and hours of the week. 
-<div align="center">
-<img width="347" alt="image" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/f21610e5-d4b0-4c1b-b244-fd367169ddff">
-
-<img width="340" alt="image" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/cbf6ec0e-a30e-4fe0-b663-8f23b7f43b5b">
-</div>
 
 <p align="center">
   <img alt="Light" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/f21610e5-d4b0-4c1b-b244-fd367169ddff" width="45%">
