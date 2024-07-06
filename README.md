@@ -58,6 +58,7 @@ One of the questions were to find the busiest days and hours of the week.
   <img alt="Dark" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/cbf6ec0e-a30e-4fe0-b663-8f23b7f43b5b" width="45%">
 </p>
 Labelling: 0 (Saturday), 1 (Sunday), 2 (Monday), 3 (Tuesday), 4 (Wednesday), 5 (Thursday), and 6 (Friday).
+
 * Tuesday and Wednesday have recorded fewest total orders and on these days ads should be scheduled.
 * Saturday and Sunday have seen maximum number of total orders.
 * The orders start to increase when weekend is approaching and start to decline when weekdays begin.
