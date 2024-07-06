@@ -15,10 +15,25 @@ Further, the following techniques are employed throughout the analysis:
 * Population Flows
 * Creating Customer Profiles
 
+By harnessing the capabilities of these tools and techniques, I aimed at extracting valuable insights from the data and presented them in a clear and concise form. 
 
-## Key Questions
+# Datasets 
+We have used open-source data sets from Instacart. Below is the link to the dataset I have used.
+[Instacart Dataset](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 
-In this project, I aim to answer the following key questions:
+### Challenges
+All the sales data we have is only for year 2017. Hence, we must keep in the relevance of this analysis before interpreting the results. I resolved the below listed problems with the dataset:
+* Some of the products information was missing. I removed this missing data as it constituted less than 5% of the total data points.
+* Removed first_name and last_name from the dataset for security reasons and they were not needed for the analysis.
+* The missing values for days_since_prior order was retained as for the first order of a customer days since prior order will be NA.
+
+Apart from the challenges with the dataset, creating customer profiles using the data was difficult. The most challenging part was to decide which features to keep and which features should be dropped while creating customer profiles as there were a number of possibilities for customer profiles. 
+
+Note: I would be recreating the customer profiles using machine learning algorithms such as clustering to create more reliable customer profiles. Updates regarding which will be posted here.
+
+
+# Key Questions
+There are a number of questions that can be asked using this dataset. In this project, I answered the following key questions:
 
 1. What are the busiest days and hours for order placement?
 2. How does the time of day influence customer spending behavior?
@@ -31,15 +46,6 @@ In this project, I aim to answer the following key questions:
 9. What demographic classifications emerge from the data?
 10. How do different customer profiles differ in terms of order price, frequency, and product preferences?
 
-## Tools and Libraries
 
-For this analysis, I utilize Python as my primary programming language and for data visualization. Leveraging the power of Python, I employ various libraries including:
-- NumPy for numerical computations
-- Pandas for data manipulation and analysis
-- Seaborn and Matplotlib for data visualization
+# Results
 
-## Datasets 
-We have used open-source data sets from Instacart. You can find the link [here.](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
-
-
-By harnessing the capabilities of these tools and libraries, I aim to extract valuable insights from the data and present them in a clear and compelling manner. Join me on this journey as we unravel the mysteries hidden within the data and pave the way for informed decision-making.
