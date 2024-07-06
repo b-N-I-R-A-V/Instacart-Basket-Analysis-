@@ -71,4 +71,4 @@ In the analysis, we also found the distribution of customers based on loyalty ty
 <img width="45%" alt="image" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/0abd31e1-3c1e-49bb-a28b-94222b1c285f">
 </p>
 Most of the customers belong to Medium Income group or High Income group. The Low Income category had the least number of customers.
-For a more comprehensive report download the final report file.
+For a more comprehensive report I urge you to download the final report file.
