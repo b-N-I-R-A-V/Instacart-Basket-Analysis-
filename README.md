@@ -62,3 +62,9 @@ Labelling: 0 (Saturday), 1 (Sunday), 2 (Monday), 3 (Tuesday), 4 (Wednesday), 5 (
 * Tuesday and Wednesday have recorded fewest total orders and on these days ads should be scheduled.
 * Saturday and Sunday have seen maximum number of total orders.
 * The orders start to increase when weekend is approaching and start to decline when weekdays begin.
+
+<p align="center">
+<img width="45%" alt="image" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/18646135-f080-4085-9f1f-014cc2ff80ce">
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img width="45%" alt="image" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/0abd31e1-3c1e-49bb-a28b-94222b1c285f">
+</p>
