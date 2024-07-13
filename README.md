@@ -90,16 +90,39 @@ The days are encoded as Saturda(0), Sunday(1), Monday(2), Tuesday(3), Wednesday(
 
 After reviewing the sales pattern over time, I turned my attention towards sales by department and pricing distribution of all the items to better segment the products. 
 <p align="center">
-  <img alt="Light" src="https://github.com/user-attachments/assets/6b7d6c72-95a0-4fcb-8d0e-95f89ccae624" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/user-attachments/assets/ae82a382-67b6-4da4-a6b7-fe20080f344d" width="45%">
+  <img alt="Light" src="https://github.com/user-attachments/assets/6b7d6c72-95a0-4fcb-8d0e-95f89ccae624" width="80%">
 </p>
 We identified departments with the most orders and found that produce department had the most orders and this was followed by dairy eggs, snacks, and beverages departments. The least popular departments in terms of total orders were bulk, other, missing, pets, and alcohol.
+<p align="center">
+  <img alt="Dark" src="https://github.com/user-attachments/assets/ae82a382-67b6-4da4-a6b7-fe20080f344d" width="80%">
+</p>
 Most of the orders have priced less than $15. Only a few orders in comparison are priced more than $15. This gave me an idea about how the segmentation can be done.
 
+## Profiling Customers
+After developing an understanding of the sales trend, I looked at our customer data to find key features and create profiles based on them.
+<p align="center">
+  <img alt="Light" src="https://github.com/user-attachments/assets/5998d5e4-d7d0-43de-91ce-941ac103f5a7" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/user-attachments/assets/e0323565-b694-4cc0-adaa-cdbbc45f7758" width="45%">
+</p>
 
+- Number of dependents fluctuates as age increases. There is no clear relationship between the two variables.
+- There isn't a clear relationship between age and income as evident from this scatter plot. However, extremely high salaries are recorded for individuals with age more than 40 years.
 
+These results led me to look in a different direction. So, I decided to look at the create profile customer using their ordering frequency and family size.
 
+<p align="center">
+  <img alt="Light" src="https://github.com/user-attachments/assets/e350f6af-236c-43f1-984e-987d324c713e" width="80%">
+</p>
+
+- A loyal customer was someone with more than 40 orders whereas a new customer was someone with less than 10 orders.
+- Most of the orders were placed by regular customers.
+- Surprisingly, loyal customer placed lesser number of total orders than regular customers. This is due to higher number of regular customers.
+
+<p align="center">
+  <img alt="Light" src="https://github.com/user-attachments/assets/07c41744-0db5-476a-a46c-baf7da1b6ed9" width="80%">
+</p>
+All the households have approximately the same number of customers. This distribution depends on the way we define household.
 
 
 
