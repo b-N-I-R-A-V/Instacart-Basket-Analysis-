@@ -122,6 +122,16 @@ These results led me to look in a different direction. So, I decided to look at 
 - Surprisingly, loyal customer placed lesser number of total orders than regular customers. This is due to higher number of regular customers.
 - All the households have approximately the same number of customers. This distribution depends on the way we define household.
 
+I also considered income, prefered time of ordering and age to create customer profiles. Following were my observations:
+<p align="center">
+  <img alt="Light" src="https://github.com/user-attachments/assets/b70473e1-abe7-45fa-bf50-bca6d1182c84" width="35%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/user-attachments/assets/e5281cab-20ec-42c9-af8e-429576104268" width="35%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/user-attachments/assets/150b7acc-67a7-47f0-ae3d-5cb939ce0aee" width="35%">
+</p>
+
+
 
 
 
@@ -130,11 +140,7 @@ Following in an excerpt from the results of the analysis to give you an overview
 
 One of the questions were to find the busiest days and hours of the week. 
 
-<p align="center">
-  <img alt="Light" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/f21610e5-d4b0-4c1b-b244-fd367169ddff" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/cbf6ec0e-a30e-4fe0-b663-8f23b7f43b5b" width="45%">
-</p>
+
 Labelling: 0 (Saturday), 1 (Sunday), 2 (Monday), 3 (Tuesday), 4 (Wednesday), 5 (Thursday), and 6 (Friday).
 
 * Tuesday and Wednesday have recorded fewest total orders and on these days ads should be scheduled.
