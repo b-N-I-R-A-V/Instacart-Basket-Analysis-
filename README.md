@@ -125,10 +125,8 @@ These results led me to look in a different direction. So, I decided to look at 
 I also considered income, prefered time of ordering and age to create customer profiles. Following were my observations:
 <p align="center">
   <img alt="Light" src="https://github.com/user-attachments/assets/b70473e1-abe7-45fa-bf50-bca6d1182c84" width="35%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/user-attachments/assets/e5281cab-20ec-42c9-af8e-429576104268" width="35%">
-&nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="https://github.com/user-attachments/assets/150b7acc-67a7-47f0-ae3d-5cb939ce0aee" width="35%">
+  <img alt="Dark" src="https://github.com/user-attachments/assets/e5281cab-20ec-42c9-af8e-429576104268" width="35%">
 </p>
 
 
