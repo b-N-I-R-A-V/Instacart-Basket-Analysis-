@@ -138,6 +138,21 @@ I also considered income, prefered time of ordering and age to create customer p
 - Majority of customers are Senior adults, having age more than 55 years.
 - The age group with least number of users is Young Adult.
 
+Using the derived variables, I checked at the distribution of profiles and found that there are several possibilities. I observed that, in all the four regions the behavior of groups by prefered time of day was same across the regions. Early birds, placed higher orders per user than all the other categories. Those ordering at night placed least number of orders per user in all regions. In this case, the difference between the categories was more noticeable.
+<p align = "center"> 
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/2d724ddf-c5a1-46dc-83fa-288cb2d7733e">
+</p>
+
+Moreover, the distribution of total orders was same as noticed earlier. In all the departments, most of the orders were placed by senior adults. Young adults placed least number of total orders in all departments.
+<p align = "center">
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/17747a0b-8ac2-479f-8d50-b4db47a92884">
+</p>
+
+
+
+
+
+
 
 # Results
 Following in an excerpt from the results of the analysis to give you an overview of the resutls. For complete results please read read the Report. [Link to the final Report](https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/commit/f10d4b9d9eb6ec4d7dd1d17135068f5238ecc2b8)
