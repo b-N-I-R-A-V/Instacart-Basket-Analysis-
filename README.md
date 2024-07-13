@@ -1,11 +1,28 @@
 # Instacart Grocery Basket Analysis Project
-In this project, we are analyzing Instacart's Grocery Basket who wants to uncover more information about their sales pattern. The instacart stakeholders are most interested in the variety of customers in their database along with theri purchasing behaviours. Of course, one size does not fit all when it comes to marketing strategies. Therefore, our primary focus is to dissect customer diversity and purchasing behaviors to devise targeted marketing campaigns.
+**Purpose and Context:** Instacart is an online grocery store that operates via an app. This project focused on analyzing Instacart's sales patterns and conducting exploratory data analysis to better segment customer profiles. Our goal is to understand the diverse customers in their database and their purchasing behaviors.
 
-# Tools and Techniques
+### Project Goals:
+- Determine busiest hours and days of the week.
+- Identify departments that more popular than others.
+- Classify customers based on their behaviour.
+
+
+## Tools and Techniques
 For this analysis, I utilize Python as my primary tool for analysis and for data visualization. Leveraging the power of Python, I employ various libraries including:
 * NumPy for numerical computations
 * Pandas for data manipulation and analysis
 * Seaborn and Matplotlib for data visualization
+
+Additionally, the following techniques were used throughout the project:
+* Data wrangling
+* Data merging
+* Deriving new variables
+* Data Cleaning
+* Aggregating Data
+* Creating Population Flows (Excel)
+
+
+
 
 Further, the following techniques are employed throughout the analysis:
 * Data Cleaning and summarizing
@@ -15,11 +32,19 @@ Further, the following techniques are employed throughout the analysis:
 * Population Flows
 * Creating Customer Profiles
 
-By harnessing the capabilities of these tools and techniques, I aimed at extracting valuable insights from the data and presented them in a clear and concise form. 
 
-# Datasets 
-We have used open-source data sets from Instacart. Below is the link to the dataset I have used.
-[Instacart Dataset](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+## Datasets 
+I used an  open-source data sets from Instacart. All the sales data we have is only for year 2017. Hence, we must keep in the relevance of this analysis before interpreting the results. 
+You can click on this link to access the dataset. 
+* [Instacart Dataset] (https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+I prepared the datasets given following a series of steps. The steps are as listed here.
+1. Explored shape of the data frames, data types of the columns, and summary statistics of the numerical columns
+2. Performed data wrangling by renaming columns, dropping columns, changing data types of columns
+3. Created Data Profiles for Raw Data
+4. Checked data for consistency addressing mixed data types, handling duplicates, and missing data
+5. Merged data frames for analysis and derived new variables
+
+
 
 ### Challenges
 All the sales data we have is only for year 2017. Hence, we must keep in the relevance of this analysis before interpreting the results. I resolved the below listed problems with the dataset:
@@ -29,11 +54,11 @@ All the sales data we have is only for year 2017. Hence, we must keep in the rel
 
 Apart from the challenges with the dataset, creating customer profiles using the data was difficult. The most challenging part was to decide which features to keep and which features should be dropped while creating customer profiles as there were a number of possibilities for customer profiles. 
 
-Note: I would be recreating the customer profiles using machine learning algorithms such as clustering to create more reliable customer profiles. Updates regarding which will be posted here.
+Note: I am interested recreating the customer profiles using machine learning algorithms such as clustering to create more reliable customer profiles. Updates regarding which will be posted here.
 
 
-# Key Questions
-There are a number of questions that can be asked using this dataset. In this project, I answered the following key questions:
+## Key Questions
+Although there are many questions one can ask, the following questions dictated the direction of the analysis I have presented here.
 
 1. What are the busiest days and hours for order placement?
 2. How does the time of day influence customer spending behavior?
@@ -46,6 +71,11 @@ There are a number of questions that can be asked using this dataset. In this pr
 9. What demographic classifications emerge from the data?
 10. How do different customer profiles differ in terms of order price, frequency, and product preferences?
 
+## Understanding Sales Trend
+I started with identifying busiest days of the week and busiest hours of the day as was asked by our sales department. We also looked at average prices per order over 24 hours.
+<p>
+![bar_orders_dow](https://github.com/user-attachments/assets/f0a0ec2b-711f-4cd4-a487-d263910a969b)
+</p>
 
 # Results
 Following in an excerpt from the results of the analysis to give you an overview of the resutls. For complete results please read read the Report. [Link to the final Report](https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/commit/f10d4b9d9eb6ec4d7dd1d17135068f5238ecc2b8)
