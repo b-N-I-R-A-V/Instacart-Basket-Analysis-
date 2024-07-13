@@ -72,10 +72,19 @@ Although there are many questions one can ask, the following questions dictated 
 10. How do different customer profiles differ in terms of order price, frequency, and product preferences?
 
 ## Understanding Sales Trend
-I started with identifying busiest days of the week and busiest hours of the day as was asked by our sales department. We also looked at average prices per order over 24 hours.
-<p align = "center>
+I started with identifying busiest days of the week and busiest hours of the day as was asked by our sales department. I also looked at average prices per order over 24 hours. 
+<p align = "center">
 <img alt = "light" src = "https://github.com/user-attachments/assets/f0a0ec2b-711f-4cd4-a487-d263910a969b" width = "80%">
 </p>
+The days are encoded as Saturda(0), Sunday(1), Monday(2), Tuesday(3), Wednesday(4), Thursday(5), and Friday(6).
+<p align="center">
+  <img alt="Light" src="https://github.com/user-attachments/assets/7cacffd6-d22f-4a5c-b5ce-849716ade9a2" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/user-attachments/assets/d6714e53-9291-47a3-b5a8-c3f4b6bd5688" width="45%">
+</p>
+
+
+
 
 # Results
 Following in an excerpt from the results of the analysis to give you an overview of the resutls. For complete results please read read the Report. [Link to the final Report](https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/commit/f10d4b9d9eb6ec4d7dd1d17135068f5238ecc2b8)
