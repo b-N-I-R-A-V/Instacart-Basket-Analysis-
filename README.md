@@ -73,8 +73,8 @@ Although there are many questions one can ask, the following questions dictated 
 
 ## Understanding Sales Trend
 I started with identifying busiest days of the week and busiest hours of the day as was asked by our sales department. We also looked at average prices per order over 24 hours.
-<p>
-![bar_orders_dow](https://github.com/user-attachments/assets/f0a0ec2b-711f-4cd4-a487-d263910a969b)
+<p align = "center>
+<img alt = "light" src = "https://github.com/user-attachments/assets/f0a0ec2b-711f-4cd4-a487-d263910a969b" width = "80%">
 </p>
 
 # Results
