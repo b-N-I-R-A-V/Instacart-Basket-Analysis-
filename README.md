@@ -112,17 +112,15 @@ After developing an understanding of the sales trend, I looked at our customer d
 These results led me to look in a different direction. So, I decided to look at the create profile customer using their ordering frequency and family size.
 
 <p align="center">
-  <img alt="Light" src="https://github.com/user-attachments/assets/e350f6af-236c-43f1-984e-987d324c713e" width="80%">
+  <img alt="Light" src="https://github.com/user-attachments/assets/e350f6af-236c-43f1-984e-987d324c713e" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+   <img alt="Light" src="https://github.com/user-attachments/assets/07c41744-0db5-476a-a46c-baf7da1b6ed9" width="45%">
 </p>
 
 - A loyal customer was someone with more than 40 orders whereas a new customer was someone with less than 10 orders.
 - Most of the orders were placed by regular customers.
 - Surprisingly, loyal customer placed lesser number of total orders than regular customers. This is due to higher number of regular customers.
-
-<p align="center">
-  <img alt="Light" src="https://github.com/user-attachments/assets/07c41744-0db5-476a-a46c-baf7da1b6ed9" width="80%">
-</p>
-All the households have approximately the same number of customers. This distribution depends on the way we define household.
+- All the households have approximately the same number of customers. This distribution depends on the way we define household.
 
 
 
