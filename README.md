@@ -124,13 +124,19 @@ These results led me to look in a different direction. So, I decided to look at 
 
 I also considered income, prefered time of ordering and age to create customer profiles. Following were my observations:
 <p align="center">
-  <img alt="Light" src="https://github.com/user-attachments/assets/b70473e1-abe7-45fa-bf50-bca6d1182c84" width="35%">
-  <img alt="Dark" src="https://github.com/user-attachments/assets/150b7acc-67a7-47f0-ae3d-5cb939ce0aee" width="35%">
-  <img alt="Dark" src="https://github.com/user-attachments/assets/e5281cab-20ec-42c9-af8e-429576104268" width="35%">
+  <img alt="Light" src="https://github.com/user-attachments/assets/b70473e1-abe7-45fa-bf50-bca6d1182c84" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/user-attachments/assets/e5281cab-20ec-42c9-af8e-429576104268" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/user-attachments/assets/150b7acc-67a7-47f0-ae3d-5cb939ce0aee" width="40%">
 </p>
 
-
-
+- Most of the customers belong to Medium Income group or High-Income group.
+- The Low-Income category had the least number of customers.
+- Most of the customers are daytime shoppers, ordering between 11 AM and 5 PM.
+- The least number of shoppers are Night Owls, ordering between 11 PM and 5 AM.
+- Majority of customers are Senior adults, having age more than 55 years.
+- The age group with least number of users is Young Adult.
 
 
 # Results
