@@ -77,11 +77,29 @@ I started with identifying busiest days of the week and busiest hours of the day
 <img alt = "light" src = "https://github.com/user-attachments/assets/f0a0ec2b-711f-4cd4-a487-d263910a969b" width = "80%">
 </p>
 The days are encoded as Saturda(0), Sunday(1), Monday(2), Tuesday(3), Wednesday(4), Thursday(5), and Friday(6).
+
 <p align="center">
   <img alt="Light" src="https://github.com/user-attachments/assets/7cacffd6-d22f-4a5c-b5ce-849716ade9a2" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="https://github.com/user-attachments/assets/d6714e53-9291-47a3-b5a8-c3f4b6bd5688" width="45%">
 </p>
+
+- We found that Saturday and Sunday were the busiest days of the week and Wednesday was the least busy day of the week.
+- The busiest hours of the day were between 10 AM and 3 PM and least busy hours were between 12 AM and 3 AM.
+- Average price paid is highest around 3 AM and least around 10 AM. The prices fluctuate throughout the day.
+
+After reviewing the sales pattern over time, I turned my attention towards sales by department and pricing distribution of all the items to better segment the products. 
+<p align="center">
+  <img alt="Light" src="https://github.com/user-attachments/assets/6b7d6c72-95a0-4fcb-8d0e-95f89ccae624" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/user-attachments/assets/ae82a382-67b6-4da4-a6b7-fe20080f344d" width="45%">
+</p>
+We identified departments with the most orders and found that produce department had the most orders and this was followed by dairy eggs, snacks, and beverages departments. The least popular departments in terms of total orders were bulk, other, missing, pets, and alcohol.
+Most of the orders have priced less than $15. Only a few orders in comparison are priced more than $15. This gave me an idea about how the segmentation can be done.
+
+
+
+
 
 
 
