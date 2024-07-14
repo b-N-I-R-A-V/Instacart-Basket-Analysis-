@@ -13,18 +13,7 @@ For this analysis, I utilize Python as my primary tool for analysis and for data
 * Pandas for data manipulation and analysis
 * Seaborn and Matplotlib for data visualization
 
-Additionally, the following techniques were used throughout the project:
-* Data wrangling
-* Data merging
-* Deriving new variables
-* Data Cleaning
-* Aggregating Data
-* Creating Population Flows (Excel)
-
-
-
-
-Further, the following techniques are employed throughout the analysis:
+Further, the following techniques were employed throughout the analysis:
 * Data Cleaning and summarizing
 * Data Wrangling
 * Data Merging
@@ -36,7 +25,7 @@ Further, the following techniques are employed throughout the analysis:
 ## Datasets 
 I used an  open-source data sets from Instacart. All the sales data we have is only for year 2017. Hence, we must keep in the relevance of this analysis before interpreting the results. 
 You can click on this link to access the dataset. 
-* [Instacart Dataset] (https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+* [Instacart Dataset](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 I prepared the datasets given following a series of steps. The steps are as listed here.
 1. Explored shape of the data frames, data types of the columns, and summary statistics of the numerical columns
 2. Performed data wrangling by renaming columns, dropping columns, changing data types of columns
