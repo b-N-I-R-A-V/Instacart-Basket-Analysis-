@@ -179,4 +179,4 @@ I would have created different salary segmentation for creating customer profile
 
 Following in an excerpt from the results of the analysis to give you an overview of the resutls. For more details about criterion for deciding features look at my report in Excel sheet. [Link to the final Report](https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/commit/f10d4b9d9eb6ec4d7dd1d17135068f5238ecc2b8)
 
-Do you have any questions or suggestions for me? Feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/nirav-bariya/) profile or [email](nkb.bariya@gmail.com) me. Thank you for your time. I hope you found something useful. Have a great rest of day! 
+Do you have any questions or suggestions for me? Feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/nirav-bariya/) profile or [email](mailto:nkb.bariya@gmail.com) me. Thank you for your time. I hope you found something useful. Have a great rest of day! 
