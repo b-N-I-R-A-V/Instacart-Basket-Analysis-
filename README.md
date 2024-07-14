@@ -148,30 +148,35 @@ Moreover, the distribution of total orders was same as noticed earlier. In all t
   <img width="80%" alt="image" src="https://github.com/user-attachments/assets/17747a0b-8ac2-479f-8d50-b4db47a92884">
 </p>
 
-
-
-
-
-
-
-# Results
-Following in an excerpt from the results of the analysis to give you an overview of the resutls. For complete results please read read the Report. [Link to the final Report](https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/commit/f10d4b9d9eb6ec4d7dd1d17135068f5238ecc2b8)
-
-One of the questions were to find the busiest days and hours of the week. 
-
-
-Labelling: 0 (Saturday), 1 (Sunday), 2 (Monday), 3 (Tuesday), 4 (Wednesday), 5 (Thursday), and 6 (Friday).
-
-* Tuesday and Wednesday have recorded fewest total orders and on these days ads should be scheduled.
-* Saturday and Sunday have seen maximum number of total orders.
-* The orders start to increase when weekend is approaching and start to decline when weekdays begin.
-
-In the analysis, we also found the distribution of customers based on loyalty type and income brackets. Most of the ordes were placed by regular customers. Surprisingly, loyal customer placed less number of total orders than regular customers. This is due to higher number of regular customers.
-
-<p align="center">
-<img width="45%" alt="image" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/18646135-f080-4085-9f1f-014cc2ff80ce">
-&nbsp; &nbsp; &nbsp; &nbsp;
-<img width="45%" alt="image" src="https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/assets/153047871/0abd31e1-3c1e-49bb-a28b-94222b1c285f">
+When I looked at the relationship between brand loyalty, customer types, and total orders I discovered the following:
+<p align ="center">
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/68bd5e12-43c6-4596-af4d-23f35e4bd38f">
 </p>
-Most of the customers belong to Medium Income group or High Income group. The Low Income category had the least number of customers.
-For a more comprehensive report I urge you to download the final report file.
+
+- When we compare brand loyalty and ordering habits, for all the 4 types of customers, regular customer placed most orders, followed by loyal customers followed by new customers.
+- This pattern was consistent with what we have observed earlier.
+- Maximum orders were placed by regular and daytime shoppers. Minimum number of orders were placed by New and Loyal customers who were Night Owls.
+
+Finally, I looked at the relationship between brand loyalty, regions, and orders and found the following:
+<p align ="center">
+  <img width="80%" alt="image" src="https://github.com/user-attachments/assets/4b167850-2651-4dd4-8751-a2ebfb478d6c">
+</p>
+
+- Maximum orders were placed by regular customers from South region.
+- Minimum orders were placed by New customers in Northeast region.
+- The distribution of brand loyalty was same in all 4 regions.
+
+## Conclusion and Recommendations
+
+Based on the findings during the analysis I produced the following recommendations:
+1. We can advertise more during the middle of the week, on Wednesday and during night for those who order at night to increase sales.
+2. We can focus more on departments with lower number of orders such as bulk, other, pets, and alcohol by giving special offers and doing targeted advertisements.
+3. When it comes to ordering habits, customers regardless of them brand loyalty exhibit similar behavior. For all the loyalty status, maximum customers order during daytime.
+4. The average sales price was least in the early morning and therefore, we can advertise more in the early morning.
+
+**What could I do better?**
+I would have created different salary segmentation for creating customer profiles. Further, I could have selected different features with higher variations to create different customer profiles. Creating customer profiles is very complex and selecting the right feature is of paramount importance while doing this.
+
+Following in an excerpt from the results of the analysis to give you an overview of the resutls. For more details about criterion for deciding features look at my report in Excel sheet. [Link to the final Report](https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/commit/f10d4b9d9eb6ec4d7dd1d17135068f5238ecc2b8)
+
+Do you have any questions or suggestions for me? Feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/nirav-bariya/) profile or [email](nkb.bariya@gmail.com) me. Thank you for your time. I hope you found something useful. Have a great rest of day! 
