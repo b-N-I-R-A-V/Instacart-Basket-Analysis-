@@ -166,6 +166,8 @@ Based on the findings during the analysis I produced the following recommendatio
 **What could I do better?**
 I would have created different salary segmentation for creating customer profiles. Further, I could have selected different features with higher variations to create different customer profiles. Creating customer profiles is very complex and selecting the right feature is of paramount importance while doing this.
 
+I hope you have found something useful. If you have any questions or suggestions for me, feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/nirav-bariya/) profile or [email](mailto:nkb.bariya@gmail.com) me.  Have a great rest of the day!
+
 For more details about criterion for deciding features look at my report in [Excel sheet.](https://github.com/b-N-I-R-A-V/Instacart_Basket_Analysis/commit/f10d4b9d9eb6ec4d7dd1d17135068f5238ecc2b8)
 
 I hope you found something useful. If you have any questions or suggestions for me, feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/nirav-bariya/) profile or [email](mailto:nkb.bariya@gmail.com) me. Thank you for your time. Have a great rest of day! 
